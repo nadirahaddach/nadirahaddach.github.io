@@ -1,1 +1,3 @@
-## Welcome to Nadira's Github Pages
+{% include navigation.html %}
+
+{% include_relative README.md %}
