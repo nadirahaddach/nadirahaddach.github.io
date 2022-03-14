@@ -16,6 +16,7 @@ Open-source software
 Present in schools and homes
 New classes developed for 3D printing
 Can create shoes, jewelry, etc.
+
 **5.2**
 
 The internet originally made for scientists
