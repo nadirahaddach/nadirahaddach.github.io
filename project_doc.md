@@ -1,13 +1,12 @@
 {% include navigation.html %}
-{% include navigation.html %}
 
 # Data Structures Project
 
-### [Python Coding Challenge Files in Github](https://github.com/katiehickman/katiehickman.github.io/tree/main/python_challenges)
+### [Python Coding Challenge Files in Github](https://github.com/nadirahaddach/nadirahaddach.github.io/tree/main/python%20files)
 
-### [Replit Runtime!](https://replit.com/@katiehickman270/menupy#main.py)
+### [Runtime](https://replit.com/@nadirahaddach/menupy#python/icecream.py)
 
-## Code Snippets 
+## Code Samples 
 
 ### Swap
 ```
@@ -45,78 +44,70 @@ def christmas():
     print('        ||||')
 ```
 
-### Cat Animation
-```
+### Icecream Animation
 import time
 import os
 
 Color34 = "\u001b[34m"
 Color37 = "\u001b[37m"
 
-def cat1():
-    print("|\---/|")
-    print("| ,_, |")
-    print(" \_`_/-..----.")
-    print("___/ `   ' ,""+ \  ")
-    print("(__...'   __\    |`.___.';")
-    print("(_,...'(_,.`__)/'.....+")
-    print("\u001b[34m -------------------------------------------- \u001b[37m")
+def icecream1():
+    print("         _.-.")
+    print("       ,'/ //\ ")
+    print("      /// // /)")
+    print("     /// // //|")
+    print("    /// // ///")
+    print("   /// // ///")
+    print("  (`: // ///")
+    print("   `;`: ///")
+    print("   / /:`:/")
+    print("  / /  `'") 
+    print(" / /")
+    print("(_/")
 
-def cat2():
-    print("   |\---/|")
-    print("   | ,_, |")
-    print("    \_`_/-..----.")
-    print("   ___/ `   ' ,""+ \  ")
-    print("   (__...'   __\    |`.___.';")
-    print("   (_,...'(_,.`__)/'.....+")
-    print("\u001b[34m -------------------------------------------- \u001b[37m")
+def icecream2():
+    print("              _.-.")
+    print("            ,'/ //\ ")
+    print("           /// // /)")
+    print("          /// // //|")
+    print("         /// // ///")
+    print("        /// // ///")
+    print("       (`: // ///")
+    print("        `;`: ///")
+    print("        / /:`:/")
+    print("       / /  `'") 
+    print("      / /")
+    print("     (_/")
 
-def cat3():
-    print("      |\---/|")
-    print("      | ,_, |")
-    print("       \_`_/-..----.")
-    print("      ___/ `   ' ,""+ \  ")
-    print("      (__...'   __\    |`.___.';")
-    print("      (_,...'(_,.`__)/'.....+")
-    print("\u001b[34m -------------------------------------------- \u001b[37m")
+def icecream3():
+    print("                   _.-.")
+    print("                 ,'/ //\ ")
+    print("                /// // /)")
+    print("               /// // //|")
+    print("              /// // ///")
+    print("             /// // ///")
+    print("            (`: // ///")
+    print("             `;`: ///")
+    print("             / /:`:/")
+    print("            / /  `'") 
+    print("           / /")
+    print("          (_/")
 
-def cat4():
-    print("         |\---/|")
-    print("         | ,_, |")
-    print("          \_`_/-..----.")
-    print("         ___/ `   ' ,""+ \  ")
-    print("         (__...'   __\    |`.___.';")
-    print("         (_,...'(_,.`__)/'.....+")
-    print("\u001b[34m -------------------------------------------- \u001b[37m")
 
-def cat5():
-    print("            |\---/|")
-    print("            | ,_, |")
-    print("             \_`_/-..----.")
-    print("            ___/ `   ' ,""+ \  ")
-    print("            (__...'   __\    |`.___.';")
-    print("            (_,...'(_,.`__)/'.....+")
-    print("\u001b[34m -------------------------------------------- \u001b[37m")
 
 
 os.system("clear")
 time.sleep(.1)
-cat1()
+icecream1()
 time.sleep(.5)
 os.system("clear")
-cat2()
+icecream2()
 time.sleep(.5)
 os.system("clear")
-cat3()
+icecream3()
 time.sleep(.5)
 os.system("clear")
-cat4()
-time.sleep(.5)
-os.system("clear")
-cat5()
-time.sleep(.5)
-os.system("clear")
-```
+
 
 ### Ship Animation
 ```
