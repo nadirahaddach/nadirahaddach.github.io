@@ -45,6 +45,7 @@ def christmas():
 ```
 
 ### Icecream Animation
+```
 import time
 import os
 
@@ -107,7 +108,7 @@ os.system("clear")
 icecream3()
 time.sleep(.5)
 os.system("clear")
-
+```
 
 ### Ship Animation
 ```
