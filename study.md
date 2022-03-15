@@ -5,28 +5,28 @@
 
 **5.1 Beneficial and Harmful Effects of Computing Innovations**
 
-Accelerometers
-Part of the automobile industry; chip that detects acceleration, motion and orientation
-Used for Airbag deployment and lateral movement detection
-Wii controllers, iPhones and Drones use these
-Benefits : Deliveries, finding lost people
-Harm: Flying in unregulated zones, privacy concerns
-3D printers
-Open-source software
-Present in schools and homes
-New classes developed for 3D printing
-Can create shoes, jewelry, etc.
+- Accelerometers
+- - Part of the automobile industry; chip that detects acceleration, motion and orientation
+- - Used for Airbag deployment and lateral movement detection
+- - Wii controllers, iPhones and Drones use these
+- - - Benefits : Deliveries, finding lost people
+- - - Harm: Flying in unregulated zones, privacy concerns
+- 3D printers
+- - Open-source software
+- - Present in schools and homes
+- - New classes developed for 3D printing
+- - Can create shoes, jewelry, etc.
 
 **5.2**
 
-The internet originally made for scientists
-Now can lead to sleep deprivation, depression, anxiety
-COMPUTING INNOVATIONS CAN BE USED IN WAYS OTHER THAN INTENDED BY CREATORS
-Microtransactions
-Any purchase made in a game
-Typically in free games/apps
-These can cause a casino effect because you don’t realize how much money you are spending
-Loot boxes GAMBLING
+- The internet originally made for scientists
+- - Now can lead to sleep deprivation, depression, anxiety
+- - COMPUTING INNOVATIONS CAN BE USED IN WAYS OTHER THAN INTENDED BY CREATORS
+- Microtransactions
+- - Any purchase made in a game
+- - Typically in free games/apps
+- - These can cause a casino effect because you don’t realize how much money you are spending
+- - Loot boxes GAMBLING
 
 
 ### 5.1
@@ -50,3 +50,14 @@ Someone that is empowered could help someone that is not empowered by sharing in
 **Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?**
 
 I belive red tape is blocking digital empowerment. At Del Norte we might not experience this as much as we are in a very privaleged position when is comes to technology, but in other places many students don't have the same acess to computers, therefore they can not be digitally empowered.
+
+### 5.1 and 5.4 Notes
+- Effects and Digital Divide
+- - Differing access to computing devices and the internet
+- - - Socioeconomic groups
+- - - Geographic characteristics
+- - - Demographic characteristics
+- - - Age
+- - - Religion
+- - - Between countries
+- - - Protect government
