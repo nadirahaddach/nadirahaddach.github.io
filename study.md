@@ -51,7 +51,10 @@ Someone that is empowered could help someone that is not empowered by sharing in
 
 I belive red tape is blocking digital empowerment. At Del Norte we might not experience this as much as we are in a very privaleged position when is comes to technology, but in other places many students don't have the same acess to computers, therefore they can not be digitally empowered.
 
-### 5.1 and 5.4 Notes
+### 5.3 and 5.4 Notes
+
+**5.3**
+
 - Effects and Digital Divide
 - - Differing access to computing devices and the internet
 - - - Socioeconomic groups
@@ -61,3 +64,17 @@ I belive red tape is blocking digital empowerment. At Del Norte we might not exp
 - - - Religion
 - - - Between countries
 - - - Protect government
+
+**5.4**
+
+- Library - A collection of functions you can use in your own program
+- - Python libraries default
+- - Imports are usually libraries
+
+- Random Values
+- - Computer able to generate a random value
+- - Random (a,b)
+
+- Simulations
+- Algorithm 
+- - You can make a simulation algorithm, churn data in, computer churns data out
