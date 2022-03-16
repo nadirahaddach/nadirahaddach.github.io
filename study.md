@@ -78,3 +78,30 @@ I belive red tape is blocking digital empowerment. At Del Norte we might not exp
 - Simulations
 - Algorithm 
 - - You can make a simulation algorithm, churn data in, computer churns data out
+
+### 5.3
+**Does the owner of the computer think this was intentional?**
+
+No, the owner of the computer does not think this was intentional. He recognizes that this was most likley an oversight but wants to call out the company on their mistake. 
+
+**How do you think this happened?**
+
+I think this happened because HP didn't croudsource and test the feauture on different demographics/skintones.
+
+**Is this harmful? Was it intended to be harmful or exclude?
+Should it be corrected?**
+
+This could be harful as an entire group of people can not use a feature on the computer. I don't think HP intended for this to be harmful and exlude people, I belive this was most likley an accident. This feature should be corrected as soon as possible, it is unprofessional to make a mistale like this but it happens. 
+
+**What would you or should you do to produce a better outcome?**
+
+To produce a better outcome, you should croudsource and test features will all sorts of people. 
+
+### 5.4
+**CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?**
+
+One croud source idea I have is getting everybodys favorite subject to find the most popular subject at our school. I could initiate this in our enviornment by setting up a database to hold all the information and having people insert their name and favorite subject. 
+
+**What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?**
+
+For Del Norte croudsourcing I could do something similar, with our final project, we could use croudsourcing to have people test the site on different computers and look for bugs. 
