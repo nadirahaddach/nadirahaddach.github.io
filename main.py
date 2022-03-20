@@ -2,28 +2,22 @@
 # Imports typically listed at top
 # each import enables us to use logic that has been abstracted to other files and folders
 
-import christmas
-import keypad
-import ship
-import swap
-import cat
-
 
 # Main list of [Prompts, Actions]
 # Two styles are supported to execute abstracted logic
 # 1. file names will be run by exec(open("filename.py").read())
 # 2. function references will be executed directly file.function()
 main_menu = [
-    ["Keypad", exec(open("python_challenges/keypad.py").read())],
-    ["Swap", exec(open("python_challenges/swap.py").read())],
-    ["Christmas", exec(open("python_challenges/christmas.py").read())],
+    ["Keypad", "python_challenges/keypad.py"],
+    ["Swap", "python_challenges/swap.py"],
+    ["Christmas", "python_challenges/christmas.py"],
 ]
 
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 sub_menu = [
-    ["Ship", exec(open("python_challenges/ship.py").read())],
-    ["Cat", exec(open("python_challenges/cat.py").read())],
+    ["Ship", "python_challenges/ship.py"],
+    ["Cat", "python_challenges/cat.py"],
 ]
 
 #patterns_sub_menu = [
