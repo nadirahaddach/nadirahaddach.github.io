@@ -105,3 +105,63 @@ One croud source idea I have is getting everybodys favorite subject to find the 
 **What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?**
 
 For Del Norte croudsourcing I could do something similar, with our final project, we could use croudsourcing to have people test the site on different computers and look for bugs. 
+
+## 5.5
+### Notes
+- Legal and ethical concerns
+- - Intellectual property (IP)
+- - - A work of invention that is the result of creativity to which one has rights
+- - Copyright
+- - - Protects your IP and keeps anyone from using it, unless you give them your permission
+- - - Plagarism: presenting material as your own
+- - - Legal ways to use something not your own:
+- - - - Creative Commons
+- - - - - Provides free licenses that you can use to tell others how to use your creation
+- - - - - Clearly tells others what they can/cannot do with your IP
+- - - - Open source
+- - - - - Programs made freely available for anyone to use and may be redistributed and modified 
+- - - - Open access
+- - - - - Online research output free of any and all restrictions on access and free of many restrictions on use, such as copyright or license restrictions
+- - - - Digital divide: unequal distribution of access to technology
+
+### Questions
+**When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.**
+
+**Make a license for your personal and Team project. Document license you picked and why.**
+
+The license our team picked was the Creative Commons Zero v1.0 Universal because we want this project to help people with code and using snippets of our code is a good tool to have. We like the fact that it will be in public domain. The document license we picked was the Open Source MIT License because it allows us to use other code and distribute closed source versions. 
+
+## 5.6
+### Notes
+- Personally Identifiable Information (PII)
+- Websites maintain a history of what you search
+- - Used to suggest other websites you may like or for targeted marketing
+- - Location may be collected
+- Risk to Privacy
+- - Information on the internet is hard to delete
+
+### Questions
+**Describe PII you have seen on project in CompSci Principles.**
+
+PII stands for Personally Identifiable Information. An example of this in CompSci Principles is the CRUD database where we stored students emails, names, counsours, etc. 
+
+**What are your feelings about PII and your exposure?**
+
+I think that PII can be very dangerours when it comes to sensitive information, personal information, for example, it is not good to have online. At the same time PII can be very usful in a number of different ways.
+
+
+**Describe good and bad passwords? What is another step that is used to assist in authentication.**
+
+Good passwords are a mix of numbers, symbols, and letters. When you have a good password it should be hard to guess and lengthy enough to rule out anything simple. A bad password is any sort of information related to you or your life, you should not have any personal information in a password. Another step used to assist in authentication is email verification.
+
+**Try to describe Symmetric and Asymmetric encryption.**
+
+Symmetric encyroption is when theres one key that is used to encrypt and decyrpt electronic data. On the other hand, Asymmetric encryption is when there is a pair of keys, one private and one public, that can encrypt and decyrpt information and secure the data.
+
+**Provide and example of encryption we used in deployment.**
+
+An example of encryption we used in deployment is SSL, using both symmetric and asymmetric encryption. 
+
+**Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.**
+
+I have never learned about a phishing scheme the hard way. One phicing technique that could be used is "download" buttons that instead download malware on your computer. 
