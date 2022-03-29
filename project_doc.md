@@ -1,5 +1,7 @@
 {% include navigation.html %}
 
+{% include repl.html %}
+
 # Data Structures Project
 
 ### [Python Coding Challenge Files in Github](https://github.com/nadirahaddach/nadirahaddach.github.io/tree/main/python%20files)
