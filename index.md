@@ -4,6 +4,6 @@
 
 <div id="video_wrapper">
   <video autoplay loop>
-    <source src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.blog.google%2Fproducts%2Fsearch%2Fmaking-it-easier-find-and-share-gifs-google%2F&psig=AOvVaw0MZk6XWpi1M7YqriFjOsNv&ust=1648672616719000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCJD5waCW7PYCFQAAAAAdAAAAABAR" type="video/mp4">
+    <source src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fanimated-background&psig=AOvVaw0aX0x0hng--r96Gl7UQ9L4&ust=1648672712085000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCOC2_8yW7PYCFQAAAAAdAAAAABAF" type="video/mp4">
   </video>
 </div>
