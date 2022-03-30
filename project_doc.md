@@ -5,8 +5,6 @@
 ### [Python Coding Challenge Files in Github](https://github.com/nadirahaddach/nadirahaddach.github.io/tree/main/python%20files)
 
 ### [Runtime](https://replit.com/@nadirahaddach/menupy)
-
-<iframe frameborder=“0” width=“100%” height=“500px” src=“https://replit.com/@nadirahaddach/menupy?lite=true#src/main.py”>
     
 ## Code Samples 
 
