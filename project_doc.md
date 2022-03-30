@@ -6,10 +6,8 @@
 
 ### [Runtime](https://replit.com/@nadirahaddach/menupy)
 
-{% include repl.html %}
-
-<iframe frameborder=“0” width=“100%” height=“500px” src=“https://replit.com/@nadirahaddach/menupy?lite=true”></iframe>
-
+<iframe frameborder=“0” width=“100%” height=“500px” src=“https://replit.com/@nadirahaddach/menupy?lite=true#src/main.py”>
+    
 ## Code Samples 
 
 ### Fibonnaci
