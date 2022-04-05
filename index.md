@@ -8,5 +8,5 @@
   </video>
 </div>
 
-<iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@nadirahaddach/menupy?lite=true#main.py">
+<iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@nadirahaddach/nadirahaddach.github.io?lite=true#main.py">
   
