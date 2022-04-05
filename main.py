@@ -1,7 +1,7 @@
-import lists
-import imp_lcm
-import oop_lcm
-import oop_fact
+from week1 import lists
+from week2 import imp_lcm
+from week2 import oop_lcm
+from week2 import oop_fact
 # menuy.py - function style menu
 # Imports typically listed at top
 # each import enables us to use logic that has been abstracted to other files and folders
