@@ -55,7 +55,7 @@ sub_menu3 = [
 
 # Menu banner is typically defined by menu owner
 border = "=" * 25
-banner = f"\n{border}\nPlease Select An Option\n{border}"
+banner = f"\033[36m\n{border}\nPlease Select An Option\n{border}\033[36m"
 
 # def menu
 # using main_menu list:
