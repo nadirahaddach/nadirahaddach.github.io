@@ -17,29 +17,26 @@ from week2 import oop_fact
 # 1. file names will be run by exec(open("filename.py").read())
 # 2. function references will be executed directly file.function()
 main_menu = [
-    ["Keypad", "python/keypad.py"],
-    ["Swap", "python/swap.py"],
-    ["Christmas Tree", "python/tree.py"],
 ]
 
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 sub_menu1 = [
-    ["Swap", "python/swap.py"],
-    ["Keypad", "python/keypad.py"],
-    ["Christmas Tree", "python/tree.py"],
+    ["Swap", "week0/swap.py"],
+    ["Keypad", "week0/keypad.py"],
+    ["Christmas Tree", "week0/tree.py"],
     ["Loops", lists.tester1],
 
 ]
 
 sub_menu2 = [
-    ["Icecream", "python/icecream.py"],
-    ["Ship", "python/ship.py"],
+    ["Icecream", "week0/icecream.py"],
+    ["Ship", "week0/ship.py"],
 
 ]
 
 sub_menu3 = [
-    ["100 Fibonacci", "python/fib.py"],
+    ["100 Fibonacci", "week1/fib.py"],
     ["Factorial", lists.tester2],
     ["OOP Factorial", oop_fact.run_factorial],
     ["OOP LCM", oop_lcm.lcm_run],
