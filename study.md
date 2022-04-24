@@ -10,17 +10,17 @@
 ### Finals Quiz 1
 | Question #    | Correction |
 | ------------- | --------|
-| 10 | Correct Answer: A. The aggregation of information in browser cookies can be used by websites that the user visits to track the user and collect information about the user. |
-| 20 | Correct Answer: C. To determine the topics that many users are posting about. |
-| 25 | Correct Answer: B. The data set stores information about an individual student’s gender and state. This information can be aggregated to extract information about the percentage of female majors in each state. |
-| 26 | Correct Answer: C. The cost of a given product is not tracked by the described search engine.|
-| 27 | Correct Answer: A. Removing the connections between C and F and between F and H will prevent devices A and F from communicating.|
-| 28 | Correct Answer: A. Removing the connections between C and F and between F and H will prevent devices A and F from communicating.|
-| 32 | Correct Answer: A. Removing the connections between C and F and between F and H will prevent devices A and F from communicating.|
-| 36 | Correct Answer: A. Removing the connections between C and F and between F and H will prevent devices A and F from communicating.|
-| 37 | Correct Answer: A. Removing the connections between C and F and between F and H will prevent devices A and F from communicating.|
-| 42 | Correct Answer: A. Removing the connections between C and F and between F and H will prevent devices A and F from communicating.|
-| 50 | Correct Answer: A. Removing the connections between C and F and between F and H will prevent devices A and F from communicating.|
+| 10 | Correct Answer: B. Storing information from the call session does not make it easier for individuals to trick the system. |
+| 20 | Correct Answer: C. Each list may contain the same book. When the lists are combined, there may be duplicates. Because the Combine procedure is called on newList after the RemoveDuplicates procedure, there is no assurance that newList has no duplicates. |
+| 25 | Correct Answer: D. Statement III indicates that it would be better for the author to use a Creative Commons license because the author wants to allow permission to use and modify the e-book. |
+| 26 | Correct Answer: C. To determine the topics that many users are posting about|
+| 27 | Correct Answer: A. In order to answer this question, the data set would need to include information from students with majors other than computer science and would need to store each student’s major.|
+| 28 | Correct Answer: D. There are trade-offs involved in choosing a compression technique for storing and transmitting data.|
+| 32 | Correct Answer: C. Moving the statement in line 5 so that it appears between lines 2 and 3|
+| 36 | Correct Answer: A. The database does not store information about individual sales, nor does it store information about gender.|
+| 37 | Correct Answer: D. x = 3, y = 2, z = 1|
+| 42 | Correct Answer: A. 1001 0100|
+| 50 | Correct Answer: C. By converting the red, green, and blue values in each pixel into a single number, information has been lost that cannot be restored.|
 
 
 ### Finals Quiz 2
