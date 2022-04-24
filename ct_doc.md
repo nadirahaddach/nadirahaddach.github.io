@@ -100,7 +100,7 @@ img class=“img-responsive py-3” id=img{{loop.index}} alt=“” width=“256
 
 **Written Responses:**
 <br>
-3a) The overall purpose of this program is to give students an opportunity to display artwork in a fun and creative way. Students will be able to display their art in different color schemes, giving a different perspective on the work. It could also be part of an activity to create art and then greyscale it to get a final result. The functionality shown in the video is the user clicking the greyscale button turning the image grey as well as the user clicking the bluescale button which changes the photo to blue. Also, the artwork displays the name of the creator. The video demonstrates inputs and outputs. The input demonstrated here is the user clicking the button, being the input, and the image changing colors, being the output. 
+3a) The overall purpose of this program is to give students an opportunity to display photography in a fun and creative way. Students will be able to display their art in different color schemes, giving a different perspective on the work. It could also be part of an activity to create art and then greyscale it to get a final result. The functionality shown in the video is the user clicking the greyscale button turning the image grey as well as the user clicking the bluescale button which changes the photo to blue. Also, the artwork displays the name of the creator. The video demonstrates inputs and outputs. The input demonstrated here is the user clicking the button, being the input, and the image changing colors, being the output. 
 <br>
 3b)
 ```
