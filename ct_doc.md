@@ -1,6 +1,6 @@
 {% include navigation.html %}
 # Create Task Outline
-### Idea: RGB Student Art Feature
+### Idea: RGB Student Photography Feature
 _Description:_ Rgb with grayscale feature that dynamically changes RGB values.
 <br>
 ### [Overview of the CB “Create Performance Task”](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf?course=ap-computer-science-principles)
