@@ -1,6 +1,32 @@
 {% include navigation.html %}
 
 ## TPT
+### Final
+**Quiz 1 Score**
+**Qui 2 Score**
+
+## Overall Study Plan for the AP Exam
+**Main points**
+1) Colaborte with my team members and ask questions
+
+2) Review all previous CollegeBoard notes
+
+3) Review all previous CollegeBoard exams/quizzes, specifically missed questions
+
+
+
+**Daily Plan**
+**Monday:** Watch a lecture video on CollegeBoard
+
+**Tuesday:** In class MCQ
+
+**Wednesday:** Watch a lecture video on CollegeBoard
+
+**Thursday:** In class MCQ
+
+**Friday:** Review past CollegeBoard assessments
+
+
 ### 5.1 and 5.2 Notes
 
 **5.1 Beneficial and Harmful Effects of Computing Innovations**
