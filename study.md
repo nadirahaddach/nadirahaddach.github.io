@@ -3,17 +3,26 @@
 ## TPT
 ### Final
 **Quiz 1 Score: 39/50**
+
 **Qui 2 Score: 41/50**
 
 ## Quiz Corrections
 ### Finals Quiz 1
 | Question #    | Correction |
 | ------------- | --------|
-| 23 | Correct Answer: A. The aggregation of information in browser cookies can be used by websites that the user visits to track the user and collect information about the user. |
-| 26 | Correct Answer: C. To determine the topics that many users are posting about. |
-| 27 | Correct Answer: B. The data set stores information about an individual student’s gender and state. This information can be aggregated to extract information about the percentage of female majors in each state. |
-| 45 | Correct Answer: C. The cost of a given product is not tracked by the described search engine.|
-| 48 | Correct Answer: A. Removing the connections between C and F and between F and H will prevent devices A and F from communicating.|
+| 10 | Correct Answer: A. The aggregation of information in browser cookies can be used by websites that the user visits to track the user and collect information about the user. |
+| 20 | Correct Answer: C. To determine the topics that many users are posting about. |
+| 25 | Correct Answer: B. The data set stores information about an individual student’s gender and state. This information can be aggregated to extract information about the percentage of female majors in each state. |
+| 26 | Correct Answer: C. The cost of a given product is not tracked by the described search engine.|
+| 27 | Correct Answer: A. Removing the connections between C and F and between F and H will prevent devices A and F from communicating.|
+| 28 | Correct Answer: A. Removing the connections between C and F and between F and H will prevent devices A and F from communicating.|
+| 32 | Correct Answer: A. Removing the connections between C and F and between F and H will prevent devices A and F from communicating.|
+| 36 | Correct Answer: A. Removing the connections between C and F and between F and H will prevent devices A and F from communicating.|
+| 37 | Correct Answer: A. Removing the connections between C and F and between F and H will prevent devices A and F from communicating.|
+| 42 | Correct Answer: A. Removing the connections between C and F and between F and H will prevent devices A and F from communicating.|
+| 50 | Correct Answer: A. Removing the connections between C and F and between F and H will prevent devices A and F from communicating.|
+
+
 ### Finals Quiz 2
 | Question #    | Correction |
 | ------------- | --------|
