@@ -26,8 +26,14 @@
 ### Finals Quiz 2
 | Question #    | Correction |
 | ------------- | --------|
-| 35 | Correct Answer: C. Overflow errors occur when an arithmetic operation results in a value outside the range of numbers that can be represented by a fixed number of bits. |
-| 50 | Correct Answer: D. |
+| 12 | Correct Answer: D. Conversion formulas between units are well known, so they would not require updates or contributions from a large number of users. |
+| 14 | Correct Answer: A. The two line graphs are roughly the same shape, indicating that the average amount of data stored per user remained about the same across all eight years.|
+| 18 | Correct Answer: D. After initializing result to 2, the code segment multiplies result by 5 a total of three times rather than multiplying result by 3 a total of five times. This yields the result 2(53). |
+| 26 | Correct Answer: A. Having a variety of perspectives represented on a team can help team members identify and address human biases that can occur in the algorithms or data used in the software.|
+| 31 | Correct Answer: A. The binary RGB triplet for neutral gray is (01111111, 01111111, 01110000).|
+| 35 | Correct Answer: C. While fractions are sometimes represented by decimal approximations that are subject to rounding errors, integers are not.|
+| 40 | Correct Answer: D. The work may be distributed to amateur or nonprofessional individuals, who are not likely to have training in complex research methods.|
+| 43 | Correct Answer: A. The desired information cannot be determined with these two spreadsheets because students with grade point averages of 3.5 or less cannot be identified.|
 
 ## Overall Study Plan for the AP Exam
 **Main points**
