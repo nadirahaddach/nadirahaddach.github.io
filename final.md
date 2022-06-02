@@ -35,7 +35,10 @@
 **Not adding distracting features for Sponsor theme, ie non-applicable games, non-applicable fun zones**
 
 
-## Documentation of Individual Tech Requirements
+## 5 Points - Teacher Final Assessment
+
+### Documentation of Individual Tech Requirements
+
 **Showing Success/Achievement**
 
 **Self Grade Assessment (Total: Individual and Team)**
