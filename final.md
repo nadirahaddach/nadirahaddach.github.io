@@ -1,13 +1,11 @@
 # Final Review
 
-## 1 Minute Commericial
-
-### 5 points - N@tM
+## 5 points - N@tM
 
 **2.5: Presence and involvement at the N@tM on June 1st from 6:00PM to 7:30PM**
 **2.5: General day to day activity in classroom: engaged, eager, effort**
 
-20 Points - Meeting Tech Guidelines
+**20 Points - Meeting Tech Guidelines**
 
 **Individual Assignments and Completion**
 
@@ -20,7 +18,7 @@
 **1 minute commercial video on project**
 
 
-### Documentation of Individual Tech Requirements
+## Documentation of Individual Tech Requirements
 **Showing Success/Achievement**
 
 **Self Grade Assessment (Total: Individual and Team)**
