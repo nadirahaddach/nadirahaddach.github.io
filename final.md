@@ -18,11 +18,23 @@
 **1 minute commercial video on project**
 
 
+## 5 Points - Meeting new tech requirements
+
+**Database with multiple tables**
+
+**Authentication and authorization controls**
+
+**Meaningful Capture (ex: notes/upload and associated tables)**
+
+**Creativity and applications of new Tech feature features to Sponsor Project**
+
+**Not adding distracting features for Sponsor theme, ie non-applicable games, non-applicable fun zones**
+
+
 ## Documentation of Individual Tech Requirements
 **Showing Success/Achievement**
 
 **Self Grade Assessment (Total: Individual and Team)**
-
 
 ### Documentation of Project, Meeting Tech Guidelines
 **Showing Engagement (Tickets, Scrum Board)**
