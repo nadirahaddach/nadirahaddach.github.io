@@ -18,7 +18,7 @@
 
 ## 20 Points - Meeting Tech Guidelines
 
-**Individual Assignments and Completion**
+**Individual Assignments and Completion**(https://github.com/nadirahaddach/TheSlayers.github.io/projects/1)
 
 **Requirements verified and accepted by the sponsor**
 
