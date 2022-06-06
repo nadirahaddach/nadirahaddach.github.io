@@ -18,7 +18,7 @@
 
 ## 20 Points - Meeting Tech Guidelines
 
-**Individual Assignments and Completion**(https://github.com/nadirahaddach/TheSlayers.github.io/projects/1)
+[**Individual Assignments and Completion**](https://github.com/nadirahaddach/TheSlayers.github.io/projects/1)
 
 **Requirements verified and accepted by the sponsor**
 
@@ -26,7 +26,7 @@
 
 **Presentation and requirement completion provided to the teacher**
 
-**1 minute commercial video on project**
+[**1 minute commercial video on project**](https://drive.google.com/drive/my-drive)
 
 
 
