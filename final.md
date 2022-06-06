@@ -47,7 +47,7 @@
 
 **Showing Success/Achievement**
 
-On my original Slayers project, I implimented CRUD and began to work on Authentication. However, since we switched projects I had to change gears to help with the calendar update.
+On my original Slayers project, I implimented CRUD and began to work on Authentication. However, since we switched projects I had to change gears to help with the calendar update. I also implimented my page into the new website, changing the colors and format of the page to better fit their theme. Over the corse of the trimester I learned a lot more about databases and how to impliment them through trial in error. Additionally, I also made upgrades to my find your counsolor code in making it harder to glitch out and not starting the page with a couslor already up. Finally, I also commented out my code so students could learn from it better.
 
 **Self Grade Assessment (Total: Individual and Team)**
 
