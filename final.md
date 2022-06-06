@@ -5,9 +5,8 @@
 **2.5: Presence and involvement at the N@tM on June 1st from 6:00PM to 7:30PM**
 
 <p align=“center”>
-<img width=“300" src=“https://user-images.githubusercontent.com/89223568/171725629-72da9982-18b0-4ab9-a65e-c085075174e2.jpg”>
-                
-<img width=“300" src=“https://user-images.githubusercontent.com/89223568/171725906-209a3645-1dad-4e59-be6f-664970a0a6fb.jpg”>
+  
+ <img width=“382" src=“https://user-images.githubusercontent.com/89223568/171725906-209a3645-1dad-4e59-be6f-664970a0a6fb.jpg">
 
 </p>
                 
