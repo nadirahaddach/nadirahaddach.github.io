@@ -47,10 +47,12 @@
 
 **Showing Success/Achievement**
 
+On my original Slayers project, I implimented CRUD and began to work on Authentication. However, since we switched projects I had to change gears to help with the calendar update.
+
 **Self Grade Assessment (Total: Individual and Team)**
 
 ### Documentation of Project, Meeting Tech Guidelines
-**Showing Engagement (Tickets, Scrum Board)**
+[**Showing Engagement (Tickets, Scrum Board)**](https://github.com/nadirahaddach/TheSlayers.github.io/projects/1)
 
 **Maintaining Master Plan**
 
