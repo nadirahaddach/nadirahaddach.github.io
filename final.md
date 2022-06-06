@@ -26,7 +26,7 @@
 
 **Presentation and requirement completion provided to the teacher**
 
-[**1 minute commercial video on project**](https://drive.google.com/drive/my-drive)
+[**1 minute commercial video on project**](https://drive.google.com/file/d/10zLXmJaRaMkXvpaHGZdi866se8krEf4u/view)
 
 
 
