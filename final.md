@@ -40,8 +40,6 @@
 
 **Creativity and applications of new Tech feature features to Sponsor Project**
 
-**Not adding distracting features for Sponsor theme, ie non-applicable games, non-applicable fun zones**
-
 
 ## 5 Points - Teacher Final Assessment
 
